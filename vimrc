@@ -15,7 +15,6 @@ set incsearch
 set ignorecase
 set autoindent
 set history=1000
-set cursorline
 set expandtab
 set shiftwidth=4
 set tabstop=4
